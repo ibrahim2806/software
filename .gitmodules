@@ -1,0 +1,12 @@
+[submodule "programming-techniques-pt"]
+	path = programming-techniques-pt
+	url = https://github.com/ibrahim2806/programming-techniques-pt.git
+
+[submodule "web-application-sewt"]
+	path = web-application-sewt
+	url = https://github.com/ibrahim2806/web-application-sewt.git
+
+[submodule "temperature-sensor-client-server-os"]
+	path = temperature-sensor-client-server-os
+	url = https://github.com/ibrahim2806/temperature-sensor-client-server-os.git
+
